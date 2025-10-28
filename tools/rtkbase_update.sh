@@ -37,7 +37,7 @@ check_before_update() {
   TOO_OLD='<b>Your Operating System is too old!</b>\n
     Please reflash your SDCard with a more recent RTKBase image, or upgrade your OS.\n
     Don'"'"'t forget to backup your settings.\n\n
-    <a href="https://github.com/Stefal/rtkbase" target="_blank">RTKBase repository</a>\n\n
+    <a href="https://github.com/smyrgl/rtkbase" target="_blank">RTKBase repository</a>\n\n
     <a href="https://docs.centipede.fr/docs/base/mise_a_jour.html" target="_blank">Documentation CentipedeRTK</a>'
 
   if [[ -f /etc/os-release ]]
